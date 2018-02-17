@@ -14,7 +14,7 @@
  See the License for the specific language governing permissions and
  limitations under the License.
 -->
-Contributing to Apache Maven Enforcer
+Contributing to Apache Maven 
 ======================
 
 You have found a bug or you have an idea for a cool new feature? Contributing
@@ -31,7 +31,7 @@ Getting Started
 + If you're planning to implement a new feature it makes sense to discuss you're changes 
   on the [dev list](https://maven.apache.org/mail-lists.html) first. 
   This way you can make sure you're not wasting your time on something that isn't 
-  considered to be in Apache Maven Enforcer's scope.
+  considered to be in Apache Maven's scope.
 + Submit a ticket for your issue, assuming one does not already exist.
   + Clearly describe the issue including steps to reproduce when it is a bug.
   + Make sure you fill in the earliest version that you know has the issue.
@@ -70,7 +70,7 @@ Additional Resources
 --------------------
 
 + [Contributing patches](https://maven.apache.org/guides/development/guide-maven-development.html#Creating_and_submitting_a_patch)
-+ [Apache Maven Enforcer JIRA project page](https://issues.apache.org/jira/projects/MENFORCER/)
++ [Apache Maven JIRA project page](https://issues.apache.org/jira/projects/MNG/)
 + [Contributor License Agreement][cla]
 + [General GitHub documentation](https://help.github.com/)
 + [GitHub pull request documentation](https://help.github.com/send-pull-requests/)
